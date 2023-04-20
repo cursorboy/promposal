@@ -158,8 +158,7 @@ export default function Home()
             <h1 className='w-2/3 text-black font-bold text-4xl underline'>
               Thank You For Your Confirmation!
             </h1>
-            let text = "click here";
-            let result = text.link("https://promposal-d.vercel.app/");
+             <a className="text-blue-500 underline" href="https://promposal-d.vercel.app/">click here</a>
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
           </div>
         </div>
