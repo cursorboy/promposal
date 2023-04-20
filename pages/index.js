@@ -158,30 +158,8 @@ export default function Home()
             <h1 className='w-2/3 text-black font-bold text-4xl underline'>
               Thank You For Your Confirmation!
             </h1>
-            <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              Name of Partner
-            </h2>
-            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              Aidan Ouckama
-            </h3>
-            <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              Location
-            </h2>
-            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              Grove by the River, Newark
-            </h3>
-            <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              Time
-            </h2>
-            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              9:00 PM - 11:00 PM
-            </h3>
-            <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              Events
-            </h2>
-            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              • Dinner • Photos • Prom • Post-Prom •
-            </h3>
+            let text = "click here";
+            let result = text.link("https://promposal-d.vercel.app/");
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
           </div>
         </div>
