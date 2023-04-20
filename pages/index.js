@@ -55,9 +55,9 @@ export default function Home()
       </div>
 
       <CornyQuestion 
-        question="Would you be the Elephant&apos;s Foot to my Chernobyl Disaster?"
-        nonactive="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuclear_symbol.svg/1024px-Nuclear_symbol.svg.png"
-        active="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/76629/nuclear-explosion-clipart-xl.png"
+        question="would u be the flynn to my rapunzel"
+        nonactive="https://insidethemagic.net/wp-content/uploads/2021/08/disneyrapunzelflynn.jpeg"
+        active="https://e0.pxfuel.com/wallpapers/580/296/desktop-wallpaper-rapunzel-iphone-rapunzel-punk-disney-princesses-disney-princess-rapunzel-punk-disney-flynn-rider.jpg"
         primary
         left
       />
