@@ -71,7 +71,7 @@ export default function Home()
       </div>
 
       <CornyQuestion 
-        question=read the poem on the next page
+        question="read the poem on the next page"
         nonactive="https://pbs.twimg.com/media/EuE2PabVkAAKPVM.jpg"
         active="https://preview.redd.it/0rxdvfirt0l61.png?width=900&format=png&auto=webp&s=29b4165c9c8e1124325dabbf194b8fa92a455c65"
         secondary
