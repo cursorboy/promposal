@@ -95,7 +95,7 @@ export default function Home()
       />
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 px-5 pt-5">
-        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>just hit yes.</h1>
+        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I&apos;m C would you be my C++ to prom?</h1>
       </div>
 
       <div className="flex flex-row justify-around items-start text-center w-full h-36 bg-pink-50 pb-5">
