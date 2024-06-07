@@ -3,7 +3,8 @@ import CornyQuestion from '../components/Corny Question'
 import RandomButton from '../components/Random Button'
 
 import { useRef, useState } from 'react'
-
+npm i @vercel/analytics
+import { Analytics } from "@vercel/analytics/react"
 import {
   Button,
   Code,
