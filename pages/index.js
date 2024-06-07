@@ -27,7 +27,7 @@ export default function Home()
     
       <div className="flex flex-row justify-center items-center w-full h-full bg-pink-200 p-10 drop-shadow-xl">
         <div className="w-2/3 h-64 bg-gradient-to-r from-pink-300 to-pink-200 drop-shadow-xl rounded-full text-center transition-all duration-300">
-          <h1 className="p-20 tracking-wide text-8xl font-bold text-white uppercase drop-shadow-lg">Hi Beautiful</h1>
+          <h1 className="p-20 tracking-wide text-8xl font-bold text-white uppercase drop-shadow-lg">Why are you here?</h1>
         </div>
       </div>
 
@@ -55,7 +55,7 @@ export default function Home()
       </div>
 
       <CornyQuestion 
-        question="would u be the flynn to my rapunzel"
+        question="If you're reading this...."
         nonactive="https://insidethemagic.net/wp-content/uploads/2021/08/disneyrapunzelflynn.jpeg"
         active="https://e0.pxfuel.com/wallpapers/580/296/desktop-wallpaper-rapunzel-iphone-rapunzel-punk-disney-princesses-disney-princess-rapunzel-punk-disney-flynn-rider.jpg"
         primary
@@ -63,15 +63,15 @@ export default function Home()
       />
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-200 p-5">
-        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>Would you</h1>
+        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>which you</h1>
       </div>
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 p-5">
-        <h1 className='w-2/3 text-pink-300 font-bold text-6xl'>Uh</h1>
+        <h1 className='w-2/3 text-pink-300 font-bold text-6xl'>shouldnt be</h1>
       </div>
 
       <CornyQuestion 
-        question="Would you be the skye to my cypher"
+        question=read the poem on the next page
         nonactive="https://pbs.twimg.com/media/EuE2PabVkAAKPVM.jpg"
         active="https://preview.redd.it/0rxdvfirt0l61.png?width=900&format=png&auto=webp&s=29b4165c9c8e1124325dabbf194b8fa92a455c65"
         secondary
@@ -79,7 +79,7 @@ export default function Home()
       />
 
       <CornyQuestion 
-        question="Would you be the smut to my Among Us?"
+        question="thought you're over me?"
         nonactive="https://assets.stickpng.com/images/61d183263a856e0004c6334a.png"
         active="https://pbs.twimg.com/media/E2ieswGVgAYKWt3.jpg"
         primary
@@ -87,7 +87,7 @@ export default function Home()
       />
 
       <CornyQuestion 
-        question="Would you be the knight to my bishop?"
+        question=""
         nonactive="https://i.ebayimg.com/images/g/RxoAAOSw3KxkB8je/s-l1600.jpg"
         active="https://us.rule34.xxx/thumbnails/6656/thumbnail_53182ddcf523c731853a7824d6d7fa73.jpg?7595918"
         secondary
@@ -95,7 +95,7 @@ export default function Home()
       />
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 px-5 pt-5">
-        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I&apos;m C would you be my C++ to prom?</h1>
+        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>just hit yes.</h1>
       </div>
 
       <div className="flex flex-row justify-around items-start text-center w-full h-36 bg-pink-50 pb-5">
